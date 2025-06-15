@@ -28,7 +28,7 @@ There should be no problems or issues, and any issues with the extension its sel
 ## Authors
 
 Klingri 
-ex. [@Klingri](https://github.com/Klingri)
+[@Klingri](https://github.com/Klingri)
 
 ## Version History
 
