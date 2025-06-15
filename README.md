@@ -19,7 +19,7 @@ This Extension can be used to calculate you're Arithmetic Mean, and any future g
 
 ### Executing extension
 
-* Go To chrome://extensions and enable Developer mode, then click "Load Unpacked" and select the folder.
+* Go To chrome://extensions and enable Developer mode, then click "Load Unpacked" and select the folder, if it doesn't work then make a folder in it called "icons" and files "icon 16" "icon48" "icon128" each, you have to make your own icons, then it should work.
 
 ## Help
 
